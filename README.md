@@ -8,6 +8,10 @@ Debugging and Error Analysis: Logs provide insights into what went wrong when an
 Monitoring and Maintenance: Logs help in monitoring the health and performance of an application.
 Security and Auditing: Logs can track access and modifications, aiding in security audits.
 Understanding Application Behavior: Logs provide a historical record of application activity, useful for understanding usage patterns and diagnosing issues.
+
+
+
+
 3. Understanding Logging Levels
 Logging levels categorize the importance and severity of log messages. Common logging levels are:
 
